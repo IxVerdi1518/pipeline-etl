@@ -4,6 +4,7 @@
     "${workspaceFolder}/src"
   ],
   "conventionalCommits.scopes": [
-    "Files created to connect psql"
+    "Files created to connect psql",
+    "Extract data"
   ]
 }
