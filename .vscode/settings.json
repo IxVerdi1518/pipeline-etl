@@ -5,6 +5,7 @@
   ],
   "conventionalCommits.scopes": [
     "Files created to connect psql",
-    "Extract data"
+    "Extract data",
+    "Transform data(Silver)"
   ]
 }
